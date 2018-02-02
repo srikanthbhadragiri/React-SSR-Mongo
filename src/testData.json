@@ -1,0 +1,40 @@
+{
+  "policies": [
+    {
+      "policyId": 1001,
+      "policyHolderName": "Amitabh Bachan",
+      "policyAmount": 20000000,
+      "policyPremium": 20000,
+      "policyStateDate": "22/06/2015",
+      "policyDueDate": "22/06/2018",
+      "policyDesc": "Insurance contracts are designed to meet specific needs and thus have many features not found in many other types of contracts. Since insurance policies are standard forms, they feature boilerplate language which is similar across a wide variety of different types of insurance policies. This policy is for a term of 10 years."
+    },
+    {
+      "policyId": 1002,
+      "policyHolderName": "sunils",
+      "policyAmount": 10000000,
+      "policyPremium": 10000,
+      "policyStateDate": "20/05/2014",
+      "policyDueDate": "20/05/2018",
+      "policyDesc": "The insurance policy is generally an integrated contract, meaning that it includes all forms associated with the agreement between the insured and insurer. In some cases, however, supplementary writings such as letters sent after the final agreement can make the insurance policy a non-integrated contract. One insurance textbook states that generally courts consider all prior negotiations or agreements ... every contractual term in the policy at the time of delivery, as well as those written afterward as policy riders and endorsements ... with both parties' consent, are part of the written policy. The textbook also states that the policy must refer to all papers which are part of the policy.[3] Oral agreements are subject to the parol evidence rule, and may not be considered part of the policy if the contract appears to be whole. Advertising materials and circulars are typically not part of a policy. Oral contracts pending the issuance of a written policy can occur. This policy is for a term of 6 years."
+    },
+    {
+      "policyId": 1003,
+      "policyHolderName": "Sonali Kapoor",
+      "policyAmount": 5000000,
+      "policyPremium": 50000,
+      "policyStartDate": "18/03/2012",
+      "policyDueDate": "18/03/2018",
+      "policyDesc": "Insurance contracts are unilateral, meaning that only the insurer makes legally enforceable promises in the contract. The insured is not required to pay the premiums, but the insurer is required to pay the benefits under the contract if the insured has paid the premiums and met certain other basic provisions. This policy is for a term of 10 years."
+    },
+    {
+      "policyId": 1004,
+      "policyHolderName": "Gabbar Singh",
+      "policyAmount": 4000000,
+      "policyPremium": 40000,
+      "policyStartDate": "15/02/2016",
+      "policyDueDate": "15/02/2018",
+      "policyDesc": "Insuring agreement - Describes the covered perils, or risks assumed, or nature of coverage. This is where the insurance company makes one or more express promises to indemnify the insured. This policy is for a term of 5 years."
+    }
+  ]
+}
